@@ -28,3 +28,4 @@ Developed using Flutter with Dart, ensuring a responsive and cross-platform user
 
 <h3>Database</h3>
 Firestore served as the backbone for data storage, ensuring real-time data synchronization and scalability.
+
